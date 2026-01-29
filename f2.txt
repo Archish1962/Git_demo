@@ -1,6 +1,2 @@
 this is the new file in the feature branch
-<<<<<<< HEAD
-this is the second line
-=======
-this is the new change from the cmd line
->>>>>>> feature
+
